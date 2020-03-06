@@ -15,6 +15,8 @@ Limitations:
 2) Number precision must be greater than one ten trillionth
 3) Currencies must be in U.S. Dollars
 4) Export will not be capitalized, and is not hyphenated 
+5) Can handle currencies, digits, calculations (all PEMDAS operations), and digit calculations
+6) Precision is reduced to trillionths in the case a value has more than twelve leading decimal places
 
 I hope you enjoy my solution as much as I enjoyed this project(:
 
